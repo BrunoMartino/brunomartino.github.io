@@ -918,6 +918,7 @@ h3::after {
     font-size: 1rem;
   }
   .footer {
+    padding: 1.25rem;
     gap: 20rem;
   }
 }
