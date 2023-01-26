@@ -923,7 +923,6 @@ h3::after {
 @media (max-width: 500px) {
   .header {
     justify-content: space-around;
-    gap: 2rem;
   }
   .logo img {
     max-width: 10rem;
