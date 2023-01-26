@@ -843,7 +843,7 @@ h3::after {
     padding: 1.25rem;
   }
   .header {
-    gap: 4rem;
+    gap: 3rem;
     margin-left: 1.5rem;
   }
   .logo img {
@@ -924,8 +924,7 @@ h3::after {
 }
 @media (max-width: 500px) {
   .header {
-    gap: 4rem;
-    margin: 0 1.5rem;
+    gap: 3rem;
   }
   .logo img {
     max-width: 10rem;
