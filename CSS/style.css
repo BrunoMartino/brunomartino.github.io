@@ -924,7 +924,7 @@ h3::after {
 }
 @media (max-width: 500px) {
   .header {
-    gap: 3rem;
+    gap: 2rem;
   }
   .logo img {
     max-width: 10rem;
