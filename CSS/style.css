@@ -857,6 +857,7 @@ h3::after {
   .bg1,
   .bg2,
   .bg3 {
+    align-items: center;
     padding: 1.25rem;
   }
   .header {
