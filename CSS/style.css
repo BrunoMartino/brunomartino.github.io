@@ -854,6 +854,11 @@ h3::after {
   }
 }
 @media (max-width: 800px) {
+  .bg1,
+  .bg2,
+  .bg3 {
+    padding: 1.25rem;
+  }
   .header {
     gap: 4rem;
     margin-left: 1.5rem;
