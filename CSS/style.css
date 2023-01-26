@@ -1048,6 +1048,7 @@ h3::after {
     font-size: 1.5rem;
   }
   .footer {
+    margin-left: 1rem;
     gap: 0.5rem;
   }
 }
