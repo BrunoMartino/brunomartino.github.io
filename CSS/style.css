@@ -1064,6 +1064,7 @@ h3::after {
     font-size: 1.5rem;
   }
   .footer {
+    width: 25rem;
     gap: 2.5rem;
   }
 }
