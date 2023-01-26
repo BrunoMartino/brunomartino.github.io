@@ -840,6 +840,7 @@ h3::after {
   .bg2,
   .bg3 {
     align-items: center;
+    padding: 1.25rem;
   }
   .header {
     gap: 3rem;
@@ -1047,6 +1048,6 @@ h3::after {
     font-size: 1.5rem;
   }
   .footer {
-    gap: 1rem;
+    gap: 0.5rem;
   }
 }
