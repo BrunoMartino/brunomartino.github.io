@@ -905,6 +905,9 @@ h3::after {
   }
 }
 @media (max-width: 500px) {
+  body {
+    max-width: 500px;
+  }
   .bg1,
   .bg2,
   .bg3 {
