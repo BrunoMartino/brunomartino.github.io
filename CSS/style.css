@@ -840,7 +840,7 @@ h3::after {
   .bg2,
   .bg3 {
     align-items: center;
-    padding: 0;
+    padding: 1.25rem;
   }
   .header {
     gap: 4rem;
