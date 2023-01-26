@@ -40,7 +40,7 @@ ul {
   justify-content: center;
   flex-flow: column nowrap;
   padding: 0 10rem;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .bg2 {
   max-width: 100vw;
@@ -50,7 +50,7 @@ ul {
   align-items: flex-start;
   flex-flow: column nowrap;
   padding: 0 10rem;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .bg3 {
   max-height: 100%;
@@ -61,7 +61,7 @@ ul {
   align-items: flex-start;
   flex-flow: column nowrap;
   padding: 0 10rem;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .header {
   display: flex;
